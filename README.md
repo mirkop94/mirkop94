@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mirkop94
+- 👀 I’m interested in Physics and Space, as well as fitness and sports.
+- 🌱 I’m currently learning ReactJS.
+- 💞️ I’m looking to collaborate on a variety of projects including non-profit for enviroment issues and 'vegan' ideas.
+- 📫 How to reach me: mirkoprimatici@gmail.com .
